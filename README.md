@@ -8,7 +8,8 @@ A simple CLI-based WebSocket broadcast server and client written in Go. This pro
 
  Project Page
 
-👉 [Project Page URL](https://github.com/kalyanipd/BroadCastServer)  
+👉 [Project Page URL](https://roadmap.sh/projects/broadcast-server) 
+ 
 
 ## 🚀 Features
 
