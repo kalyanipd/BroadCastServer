@@ -1,4 +1,5 @@
 # BroadCastServer
+# https://github.com/kalyanipd/BroadCastServer
 # 📡 Go WebSocket Broadcast Server
 
 A simple CLI-based WebSocket broadcast server and client written in Go. This project demonstrates real-time communication between multiple clients using WebSockets—ideal for learning chat server mechanics, pub-sub, or live notifications.
